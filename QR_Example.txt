@@ -1,0 +1,21 @@
+Let there is a matrix of n x p
+
+and we deivided into square tiles.
+
+For ex. there are 4 * 3 matrix of tiles.
+
+-------------------
+| A11 | A12 | A13 |
+-------------------
+| A21 | A22 | A23 |
+-------------------
+| A31 | A32 | A33 |
+-------------------
+| A41 | A42 | A43 |
+-------------------
+Steps for QR decomposition
+
+Step 1. QR Decompose A11
+Step 2. Update A12 and A13
+Step 3. QR decompose A11+A12
+step 4. Update A12+A22 and A13+A23
