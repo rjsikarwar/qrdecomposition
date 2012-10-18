@@ -19,3 +19,13 @@ Step 1. QR Decompose A11
 Step 2. Update A12 and A13
 Step 3. QR decompose A11+A12
 step 4. Update A12+A22 and A13+A23
+
+
+Some Important links:
+
+1. http://www.slideserve.com/gen/parallel-out-of-core-lu-and-qr-factorization
+2. http://arxiv.org/pdf/1104.4475v1.pdf
+3. https://docs.google.com/viewer?a=v&q=cache:PB7zyX65bWwJ:www.mpi-hd.mpg.de/astrophysik/HEA/internal/Numerical_Recipes/f2-10.pdf+QR+decomposition+in+C&hl=en&gl=in&pid=bl&srcid=ADGEESiyWvhoPvPo0QIKIDLluyTlsV3W4DI2nCYRbVAUzQMD5hinczQ4z-bQj5cPs9nHrqQOVyJCGCYwP8--Q7fVgPuBf6UFN__HsdLQfOJrRQ8f1AXgHeNwoqvonnJ76wbNUy7CPbUD&sig=AHIEtbSxCK824hWgdFW-VNNI2Pf05mv06A
+4. http://brunierbrunojulier.pagesperso-orange.fr/C++Frame-02qrmatrix.html
+
+5. Have a look on Out of Core LAPACK and LAPACK.
